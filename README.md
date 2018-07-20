@@ -15,12 +15,15 @@ I have between the time the tweet is published to the day I end my service
 
 3. Inside config.js, add your own credentials
 
+
+```javascript
     module.exports = {
         consumer_key:         '...',
         consumer_secret:      '...',
         access_token:         '...',
         access_token_secret:  '...',
     }
+```
 
 ### Watch the TwitterBot live:
 ### [TwitterBot](https://twitter.com/ArbatovB)
