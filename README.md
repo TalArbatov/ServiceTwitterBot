@@ -24,7 +24,7 @@ I have between the time the tweet is published to the day I end my service
         access_token_secret:  '...',
     }
 ```
-4. run ```javascript npm start```
+4. run ```npm start```
 
 ### Watch the TwitterBot live:
 ### [TwitterBot](https://twitter.com/ArbatovB)
